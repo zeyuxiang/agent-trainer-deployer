@@ -1,9 +1,9 @@
 #!/bin/bash
 . ./common/constants.sh
 
-YOUR_OUTRUN_ROMS_PATH="/local/folder/of/your/outrun_roms" # You will need to provide your OutRun game roms; these will be copied to agent-trainer's roms/ folder below
+YOUR_OUTRUN_ROMS_PATH="/Users/xiangzeyu/coding/agent-trainer/roms" # You will need to provide your OutRun game roms; these will be copied to agent-trainer's roms/ folder below
 
-ip_address="192.168.2.2"
+ip_address="104.199.98.98"
 
 echo "Preparing remote volume"
 
