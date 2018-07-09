@@ -1,4 +1,4 @@
-SSH_KEY_PATH="/Users/xiangzeyu/.ssh/google_compute_known_hosts" # example: /Users/my-username/.ssh/my-ssh-key
+SSH_KEY_PATH="/Users/xiangzeyu/.ssh/google_compute_engine" # example: /Users/my-username/.ssh/my-ssh-key
 
 HOST_USERNAME="xiangzeyu"
 HOST_USER_HOME="/home/${HOST_USERNAME}"
