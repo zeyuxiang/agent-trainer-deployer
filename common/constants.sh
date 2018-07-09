@@ -1,6 +1,6 @@
-SSH_KEY_PATH="/path/to/ssh/key" # example: /Users/my-username/.ssh/my-ssh-key
+SSH_KEY_PATH="/Users/xiangzeyu/.ssh/google_compute_known_hosts" # example: /Users/my-username/.ssh/my-ssh-key
 
-HOST_USERNAME="ec2-user"
+HOST_USERNAME="xiangzeyu"
 HOST_USER_HOME="/home/${HOST_USERNAME}"
 EXTERNAL_VOLUME_AWS_VOLUME_ID="vol-xxxxxxxx"
 EXTERNAL_VOLUME_DEVICE_NAME="/dev/xvdf"
